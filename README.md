@@ -1,3 +1,3 @@
 # Dashboard Portafoglio
 
-Dashboard locale per la gestione e il monitoraggio del portafoglio.
+Dashboard locale per la gestione e il monitoraggio del portafoglio investimenti.
